@@ -6,5 +6,8 @@ How to yous tools
 
 [2] apt install git -y
 
-[3] git clone 
+[3] git clone https://github.com/Madhackr/MAD-login.git
 
+[4] cd MAD-login
+
+[5] bash 
